@@ -2,7 +2,7 @@ In Octuber 27, 2019, CGDV conducted a Data Visualization hackathon called "The E
 
 Guillermina Sutter Schneider and I (Team Chips) got first place in the competition.
 
-The prompt was to make a data visualization of a dataset about Access to Safe Drinking Water in Ethiopia in less than 2 hours.
+The prompt was to make a data visualization of a dataset about The Ebola Outbreak in The Democratic Republic of the Congo in less than 2 hours.
 
 Our submission is available here: https://www.centerforglobaldata.org/challenge-winner-hall-of-fame/#ebola
 
