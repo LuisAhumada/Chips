@@ -1,4 +1,4 @@
-In Octuber 27, 2019, CGDV conducted a Data Visualization hackathon called "The Ebola Outbreak in The Democratic Republic of the Congo" at Georgetown in Washington D.C.
+In October 27, 2019, CGDV conducted a Data Visualization hackathon called "The Ebola Outbreak in The Democratic Republic of the Congo" at Georgetown in Washington D.C.
 
 Guillermina Sutter Schneider and I (Team Chips) got first place in the competition.
 
